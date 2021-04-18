@@ -10,10 +10,10 @@ const inputData = {
     }
   },
   'another': null
-}
+};
 // Print input data
 console.log('Code test', inputData);
 // Switch all input data keys/values and reverse the new value.
-const outputData = functionality.switchKeysWithValuesAndReturnReversed(inputData)
+const outputData = functionality.switchKeysWithValuesAndReturnReversed(inputData);
 // Print output data
-console.log('Code test', outputData)
+console.log('Code test', outputData);
